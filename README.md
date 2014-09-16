@@ -4,7 +4,7 @@ Instagram-Popular-Images
 An application to get popular images in Instagram
 
 How many hours did it take to complete?
-It took me 5/6 hours to complete the project.
+It took 6 hours to complete the project.
 
 Completed required stories are - Graphic, Caption, Username
 Completed optional stories are - like count, user profile image
