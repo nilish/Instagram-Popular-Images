@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Popular Image</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="popular_photos_caption">Popular Photos</string>
+    <string name="caption_default_text">This is a default caption</string>
+    <string name="img_instagram_user">This is the username</string>
+    <string name="likes_count">This is the likes count</string>
+    <string name="likes_count_caption">Likes</string>
+
+</resources>
