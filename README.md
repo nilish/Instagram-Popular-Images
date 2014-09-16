@@ -17,4 +17,4 @@ User Stories-
 Graphic, Caption, Username, like count and user profile image
 
 
-![Video Walkthrough](todo_using_licecap.gif)
+![Video Walkthrough](instagram_popular_image_2.gif)
